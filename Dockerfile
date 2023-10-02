@@ -1,4 +1,4 @@
-FROM php:8.2.10-alpine
+FROM php:8.2.11-alpine
 
 LABEL org.opencontainers.image.authors="contact@ethersys.fr"
 LABEL org.opencontainers.image.source="https://github.com/ethersys/ethersys-docker-wfpc"
